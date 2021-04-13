@@ -25,4 +25,5 @@ Reference data: These files contain descriptive information that can be joined w
 5)	Which MS-DRGs Service Lines had the largest different between the observed length of stay and the national average  provided in the MS-DRG reference file?
 
 **EXTRA CREDIT**
+
 Based on your observations and analysis of the data, come up with a few more questions and provide quantitative answers to those questions. 
