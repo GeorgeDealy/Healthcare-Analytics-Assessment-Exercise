@@ -1,4 +1,4 @@
-# Assessment-Data
+# Healthcare Analytics Assessment Exercise
 **OVERVIEW**
 The following files in .csv format represent information describing a group of patient accounts from a healthcare organization’s hospital inpatient setting.  This information, which includes information about patient accounts (also known as encounters or patient visits), diagnoses and charges for services, can be used to answer a variety of analytical questions about the state of a hospital’s patient population over a two year period.  This exercise provides an opportunity to both organize the data for analysis and formulate and answer specific questions about the patient population using that data.
 
