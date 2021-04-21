@@ -22,7 +22,7 @@ Reference data: These files contain descriptive information that can be joined w
 2)	Which diagnosis related groups (MS-DRGs) have the highest average charges per patient account?
 3)	Which Attending Provider Service had the highest volume of accounts (encounters) during December 2018?
 4)	What is the “average length of stay” (number of hospital days between admit date and discharge date, but not including discharge date) for each of the 4 facilities for each of the years for which account information are provided (2018 & 2019).
-5)	Which MS-DRGs Service Lines had the largest difference between the observed length of stay and the national average provided in the MS-DRG reference file? The national average is the "Arith Mean ALOS" field in
+5)	Which MS-DRGs Service Lines had the largest difference between the observed length of stay and the national average provided in the MS-DRG reference file? Use the "Arithmetic Mean LOS" field as the national average.
 
 **EXTRA CREDIT**
 
