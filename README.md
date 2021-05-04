@@ -7,7 +7,7 @@ Transactional data:  These files contain information describing patients’ jour
 + Accounts: Each record provides a subset of descriptive information about an individual patient account. This includes a unique identifier for the account (Account ID), when the patient was admitted to the hospital (Admit Date), when they were discharged (Discharge Date), the diagnosis related group (MS-DRG) that was used to classify the patient’s condition and treatment, the facility where care was provided and the patient’s zip code.
 + Diagnoses: Each patient account is expected to have at least one diagnosis (Diagnosis Code). Most patients will have more than one. The Diagnosis Sequence indicates whether a diagnosis is “primary” (Diagnosis Sequence = 1) or “secondary” (any number greater than 1.)
 + Charges: Charges represent services that are billed for during a patient encounter. They provide details about what transpired during the encounter as well as the basis for the total amount charged  to the patient account.
-Note: these datasets are related to each other by Account ID
+Note: these datasets are related to each other by Account ID.
 
 Reference data: These files contain descriptive information that can be joined with coded data to add context to the transactional data that will aid in analysis.
 + MS-DRG: Contains the descriptive names of the diagnosis related groups (MS-DRG) as well as quantitative data reflecting national averages for length of stay (LOS) -- both arithmetic and geometric averages -- and a resource utilization index called Relative DRG Weight that can be used to compare expected utilization among patients, providers and facilities with what actually happened.
